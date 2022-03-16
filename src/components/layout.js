@@ -1,55 +1,40 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
+import React, { Fragment } from 'react';
+import SEO from './seo';
+import Header from './header';
+import Footer from './footer';
+import Container from './container';
+import GlobalStyle from './global-styles';
+import styled from 'styled-components';
 
-import * as React from "react"
-import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
-
-import Header from "./header"
-import "./layout.css"
-
-const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
-
+const Layout = ({ children, title, description, socialImage = '' }) => {
   return (
-    <>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
-        <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
-        </footer>
-      </div>
-    </>
-  )
-}
+    <Fragment>
+      <GlobalStyle />
+      <SEO title={title} description={description} socialImage={socialImage} />
+      <LayoutWrapper>
+        <Header />
+        <main>
+          <Container>{children}</Container>
+        </main>
+        <Footer />
+      </LayoutWrapper>
+    </Fragment>
+  );
+};
 
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-}
+export default Layout;
 
-export default Layout
+const LayoutWrapper = styled.div`
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  & main {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  & footer {
+    margin-top: auto;
+  }
+`;
