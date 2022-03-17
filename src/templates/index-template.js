@@ -50,8 +50,8 @@ const Intro = styled.div`
   text-align: center;
 
   & p {
-    text-transform: capitalize;
-    font-size: var(--size-400);
+    margin-top: var(--size-500);
+    font-size: var(--size-500);
   }
 
   @media screen and (max-width: 700px) {
