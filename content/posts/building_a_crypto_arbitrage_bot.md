@@ -1,12 +1,13 @@
 ---
-title: Why do we even need weapons anyway?
-date: 2021-03-07
-tags: [tv series, stranger things]
+title: Building a crypto arbitrage bot
+date: 2021-02-02
+tags: [Crypto, Finance, History]
+social_image: '/media/rocket.jpg'
+description: My journey building a crypto arbitrage bot. Will be updated as I progress in this journey
 ---
 
-Why do we even need weapons anyway? We have her. Nobody normal ever accomplished anything meaningful in this world. Mouth-breather. Mornings are for coffee and contemplation. Mouth-breather. Friends don't lie. YOU BETTER RUN! She's our friend, and she's crazy!He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is! It’s about the shadow monster, isn’t it? We never would've upset you if we knew you had superpowers. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?
+Here I'll share my path building a crypto arbitrage bot. I am not sure how far it will go, and I'll update my progress frequently so check back to see how it is going.
 
-Mornings are for coffee and contemplation. So, Jonathan, how was the pull-out? Just wait till we tell Will that Jennifer Hayes was crying at his funeral. It's just, sometimes... people don't really say what they're really thinking. But when you capture the right moment, it says more.Yeah, I want a date with Bo Derek. We all want things. Bitchin' If anyone asks where I am, I've left the country. Nancy, seriously, you're gonna be so cool now, it's ridiculous. Just wait till we tell Will that Jennifer Hayes was crying at his funeral.
 
 ## Image
 

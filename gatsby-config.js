@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Matheus Camacho`,
+    title: `Matheus's mind`,
     author: {
       name: `Matheus Camacho`,
       summary: `A quant trying to understand the world and the things in it`,

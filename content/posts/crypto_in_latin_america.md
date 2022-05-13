@@ -1,11 +1,15 @@
 ---
-title: One World
-date: 2020-02-01
-tags: [space, earth, moon]
+title: A Brief Overview of Crypto in Latin America
+date: 2021-02-02
+tags: [Crypto, Finance, History]
 social_image: '/media/rocket.jpg'
+description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
 ---
 
-The view of the earth from the moon fascinated me - a small disk, 240,000 mniles away. It was hard to think that that little thing held so many problems, so many frustrations. Raging nationalistic interests, famines, wars, pestilence don't show from that distance. I'm convinced that some wayward stranger in a space-craft, coming from some other part of the heavens, could look at earth and never know that it was inhabited at all. But the same wayward stranger would certainly know instinctively that if the earth were inhabited, then the destinies of all who lived on it must inevitably be interwoven and joined. We are one hunk of ground, water, air, clouds, floating around in space. From out there it really is 'one world'. - Frank Borman
+## Introduction
+The experiment in El Salvador, where the country made Bitcoin its legal tender alongside the US Dollar has justifiably raised eyebrows regarding widespread adoption of crypto in Latin America’s countries. One could argue the program in El Salvador has been more of a demonstration of how not to do things than a roadmap on how crypto can be a part in the lives of people in these countries. After all…the last thing many of these countries need is more volatility and instability. </br > </br >
+However, with a tech-savvy population, abundant access to mobile internet, and severely inefficient financial markets, many Latin American countries should provide the perfect market conditions to demonstrate the life-changing potential of emerging crypto technologies. </br > </br >
+In this essay, I’ll document my quest to better understand these markets and suggest ways in which crypto technology can change the way people interact with their money.
 
 ## Image
 
